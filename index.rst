@@ -37,7 +37,7 @@ CHMI does not charge for labor (I know, I know, we're awesome). We do, however, 
   ----------------
 
   +------------------+-------------+
-  | technicain       | cost        |
+  | technician       | cost        |
   +==================+=============+
   |  Dan             | priceless   |
   +------------------+-------------+
