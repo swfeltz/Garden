@@ -1,3 +1,7 @@
+================================================
+This is a site that contains photos of my garden
+================================================
+
 Hello!$
 
 This is Susanne's first attempt at a site made with Read The Docs from a GitHub repository$
