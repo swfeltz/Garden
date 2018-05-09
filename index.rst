@@ -18,10 +18,12 @@ Technology available at CHMI
 + Qubit 3
 + Agilent Bioanalyzer 2100
 + Agilent Tapestation 4200
-+ another link Synthecon 'STLV' 3D culture system (RCCS-4H)
++ `Synthecon 'STLV' 3D culture system (RCCS-4H)`_
 + Mac Pro workstation (dual CPU, 6 cores, 64Gb RAM, 1TB SSD storage)
-+ another link Linux workstation (dual CPU, 12 cores, 512 Gb RAM, 10Tb RAID1 storage)
++  Linux workstation (dual CPU, 12 cores, 512 Gb RAM, 10Tb RAID1 storage)
 + another link Biomeme 'two3' hand-held QPCR system
+
+.. _Synthecon 'STLV' 3D culture system (RCCS-4H): http://synthecon.com/pages/autoclavable_vessel_culture_systems_rccs-4h_synthecon_25.asp
 
 Costs
 =====
