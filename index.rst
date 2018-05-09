@@ -29,19 +29,22 @@ Technology available at CHMI
 
 Costs
 =====
-CHMI does not charge for labor (I know, I know, we're awesome). We do, however, charge for consumables and apply a $300 run fee to each use of our sequencer, which helps offset the cost of our annual service contract on the machine. To avoid unnecessary administrative overhead, **we ask that you purchase your own consumables for any work done with CHMI**. Of course, we can guide you on what exactly to purchase. See our `CHMI invoice template`_ for a detailed list of charges.
+CHMI does not charge for labor (I know, I know, we're awesome). We do, however, charge for consumables and apply a $300 run fee to each use of our sequencer, which helps offset the cost of our annual service contract on the machine. To avoid unnecessary administrative overhead, **we ask that you purchase your own consumables for any work done with CHMI**. Of course, we can guide you on what exactly to purchase. See our `CHMI invoice template`_ for a detailed list of charges.::
 
 .. _CHMI invoice template: https://docs.google.com/spreadsheets/d/1nbye8xRZTtBthhm7E-KuhEXBz2E3VvOG1lmTpNpGJMA/edit?usp=sharing
 
-Table of Charges
-----------------
+  Table of Charges
+  ----------------
 
-+--------+-------------+
-| genome | source      |
-+========+=============+
-|  Pf3D7 | Genbank     |
-+--------+-------------+
-| TGME49 | John's Lab  |
-+--------+-------------+
+  +------------------+-------------+
+  | technicain       | cost        |
+  +==================+=============+
+  |  Dan             | priceless   |
+  +------------------+-------------+
+  | Omar             | 5 bucks     |
+  +------------------+-------------+
+
+Delivery
+========
 
 
