@@ -5,7 +5,7 @@ Welcome to the CHMI SOP page
 Site Overview
 =============
 
-This website provides convenient access to all the standard protocols and procedures used by my group at the 'PennVet CHMI <http://hostmicrobe.org/>'_ If you’re a member of my lab, then clicking on the “Edit me” button above (and on each page) will take you to GitHub where you can collaboratively edit any protocol page. This wiki-style approach gives us a central place to develop our lab protocols. If you’re not part of CHMI, no worries, you can still peruse the site to see our protocols. Comments and feedback are welcome!
+This website provides convenient access to all the standard protocols and procedures used by my group at the `PennVet CHMI <http://hostmicrobe.org/>`_ If you’re a member of my lab, then clicking on the “Edit me” button above (and on each page) will take you to GitHub where you can collaboratively edit any protocol page. This wiki-style approach gives us a central place to develop our lab protocols. If you’re not part of CHMI, no worries, you can still peruse the site to see our protocols. Comments and feedback are welcome!
 
 Printing protocols
 ==================
