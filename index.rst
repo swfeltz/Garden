@@ -39,12 +39,14 @@ CHMI does not charge for labor (I know, I know, we're awesome). We do, however, 
   +------------------+-------------+
   | technician       | cost        |
   +==================+=============+
-  |  Dan             | priceless   |
+  |  Dan             | 5 bucks     |
   +------------------+-------------+
-  | Omar             | 5 bucks     |
+  | Omar             | priceless   |
   +------------------+-------------+
 
-Delivery
-========
+Photo of the garden
+===================
+
+.. image:: images/IMG_20180406_184844674.jpg
 
 
